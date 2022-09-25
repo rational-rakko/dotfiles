@@ -5,9 +5,9 @@ path=(
   ~/.sh
   ~/.local/bin
   ~/.cargo/bin
+  /usr/local/go/bin
 #   ~/.guard/bin
   ~/.tfenv/bin
-  /usr/local/go/bin
 #   ${GOPATH}/bin
   $path
 )

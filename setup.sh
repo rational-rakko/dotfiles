@@ -13,6 +13,9 @@
 # ~/dotfiles/setup/common/install_rustup.sh
 # ~/dotfiles/setup/common/install_rust_binaries.sh
 
+# Golang
+~/dotfiles/setup/ubuntu/install_golang.sh
+
 # Python
 # ~/dotfiles/setup/common/install_pip_packages.sh
 
