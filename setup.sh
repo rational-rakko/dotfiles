@@ -29,4 +29,4 @@
 
 # Link
 ~/dotfiles/setup/common/make_links.sh
-# ~/dotfiles/setup/ubuntu/make_links.sh
+~/dotfiles/setup/ubuntu/make_links.sh
