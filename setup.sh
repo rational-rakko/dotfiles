@@ -11,6 +11,7 @@
 # Rust
 # TODO: Enable unattended installation
 # ~/dotfiles/setup/common/install_rustup.sh
+# ~/dotfiles/setup/common/install_rust_binaries.sh
 
 # Python
 # ~/dotfiles/setup/common/install_pip_packages.sh
