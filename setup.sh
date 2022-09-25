@@ -8,6 +8,10 @@
 # Zsh
 # ~/dotfiles/setup/common/install_zinit.sh
 
+# Rust
+# TODO: Enable unattended installation
+# ~/dotfiles/setup/common/install_rustup.sh
+
 # Python
 # ~/dotfiles/setup/common/install_pip_packages.sh
 
