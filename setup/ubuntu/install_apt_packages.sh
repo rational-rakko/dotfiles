@@ -14,3 +14,6 @@ sudo apt install -y tmux
 
 # Ssh
 sudo apt install -y openssh-server
+
+# Utility
+sudo apt install -y curl
