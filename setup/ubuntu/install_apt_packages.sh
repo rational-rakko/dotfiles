@@ -17,3 +17,4 @@ sudo apt install -y openssh-server
 
 # Utility
 sudo apt install -y curl
+sudo apt install -y build-essential

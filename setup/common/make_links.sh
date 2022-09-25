@@ -1,6 +1,6 @@
 #!/bin/bash
 
-config_file_dir=~/dotfiles/config
+config_file_dir=~/dotfiles/config/common
 
 # Zsh
 ln -sfn ${config_file_dir}/zsh/zshenv ~/.zshenv
